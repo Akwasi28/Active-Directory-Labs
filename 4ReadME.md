@@ -23,30 +23,17 @@ Adding a user who is not getting all the emails all employees are suppose to get
 
 ---
 
-## 🧠 Step 2: Reset the User Password
-- Right-clicked the user account and selected **Reset Password**
-- Entered a temporary password
-- Enabled:
-  - **User must change password at next logon**
-  - **Unlock the user’s account**
-- Clicked **OK** to apply changes
+## 🧠 Step 2: Adding User to the DL-AllEmployees Group
+- Clicked on the name Michael Jackson then pressed the member of tab then clicked add and searched up the DL-AllEmployees group clicked on it and added the user 
 
-<img width="1135" height="816" alt="Screenshot" src="https://github.com/user-attachments/assets/5f00bee8-46b5-4301-a2d3-78764a2483b2" />
-
-*Caption: Resetting the user password and restoring account access.*
+<img width="1037" height="813" alt="Screenshot 2026-04-24 at 4 02 03 AM" src="https://github.com/user-attachments/assets/feea6222-c0b2-4516-be63-a2de90a448d3" />
 
 ---
 
-## ✅ Key Skills Demonstrated
-- Active Directory User Management
-- Password Reset & Account Recovery
-- Identity and Access Management (IAM)
-- Windows Server Administration
-
----
-
-## 🧠 Outcome
-Successfully reset the user’s password and restored account access while enforcing secure login practices.
+## 🧠 Step 3:Making sure the user was added 
+- Went back to the "memeber of" tab and clicked on apply to make sure user was added to the group
+  
+<img width="1118" height="818" alt="Screenshot 2026-04-24 at 4 05 03 AM" src="https://github.com/user-attachments/assets/3e3e5104-5ea0-4c0a-b204-15b96655b032" />
 
 ---
 
