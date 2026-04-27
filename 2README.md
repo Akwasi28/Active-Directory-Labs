@@ -1,5 +1,8 @@
 # Active Directory: Finding a User to unlock their account
 
+## 📌 Overview
+This project demonstrates how to locate a user account and unlock it in Active Directory. It highlights basic account management and troubleshooting within a Windows Server environment.
+
 ## 🎯 Scenario
 Finding a User in Active Directory to unlock their account
 ---
